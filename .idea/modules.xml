@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/jenkins-git.iml" filepath="$PROJECT_DIR$/.idea/jenkins-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sh-day08.iml" filepath="$PROJECT_DIR$/.idea/sh-day08.iml" />
     </modules>
   </component>
 </project>
